@@ -7,4 +7,4 @@ spec:
   interval: 1m
   ref:
     branch: main
-  url: https://github.com/CodeWithPraveen/ps-implementing-gitops.git
+  url: https://github.com/merovingio0x/ps-implementing-gitops-1.git

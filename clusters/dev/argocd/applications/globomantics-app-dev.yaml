@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/CodeWithPraveen/ps-implementing-gitops.git
+    repoURL: https://github.com/merovingio0x/ps-implementing-gitops-1.git
     targetRevision: HEAD
     path: apps/dev
   destination:
